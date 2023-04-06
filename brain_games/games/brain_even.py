@@ -10,6 +10,7 @@ def is_even(random_number):
     else:
         return False
 
+
 def get_game():
     random_number = randint(0, 100)
     question = f'Question: {random_number}'
