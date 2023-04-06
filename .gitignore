@@ -1,0 +1,12 @@
+/.venv
+/brain_games/scripts/__pycache__/brain_calc.cpython-39.pyc
+/brain_games/scripts/__pycache__/brain_even.cpython-39.pyc
+/brain_games/__pycache__/cli.cpython-39.pyc
+/brain_games/scripts/__pycache__/brain_gcd.cpython-39.pyc
+/brain_games/scripts/__pycache__/brain_prime.cpython-39.pyc
+/brain_games/scripts/__pycache__/brain_progression.cpython-39.pyc
+/brain_games/scripts/__pycache__/game_logic.cpython-39.pyc
+/brain_games/__pycache__
+/brain_games/scripts/__pycache__
+brain_games/scripts/games/__pycache__/
+__pycache__
